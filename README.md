@@ -10,5 +10,5 @@ git clone git://github.com/v1taly0k/leibniz-pi.git
 
 Запускаем node.js
 ```
-node pi.js
+node /leibniz-pi/pi.js
 ```
